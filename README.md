@@ -7,5 +7,5 @@ Tensorflow Object Detection API Demo for Google Colaboratory
 
 ## [TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)
 
-Keras image_classification web demo
+Keras image classification web demo for Google Colaboratory
 ## [colab_web_demo](https://github.com/a2kiti/colab_web_demo)
