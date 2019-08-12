@@ -8,7 +8,7 @@
 
 ### [TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)
 
-## Keras image classification web demo for Google Colaboratory
+## Keras image classification web demo
 
 ### [colab_web_demo](https://github.com/a2kiti/colab_web_demo)
 
