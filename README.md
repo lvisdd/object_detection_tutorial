@@ -12,6 +12,8 @@
 
 #### [TensorFlow Object Detection API demo](https://github.com/GoogleCloudPlatform/tensorflow-object-detection-example)
 
+#### [Tensorflow Object Detection API Web Service](https://github.com/webrtcHacks/tfObjWebrtc)
+
 #### [DeepLab: Deep Labelling for Semantic Image Segmentation](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
 ### Keras image classification
