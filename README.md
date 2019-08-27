@@ -14,6 +14,8 @@
 
 #### [Tensorflow Object Detection API Web Service](https://github.com/webrtcHacks/tfObjWebrtc)
 
+#### [Tensorflow Face Detector](https://github.com/yeephycho/tensorflow-face-detection)
+
 #### [DeepLab: Deep Labelling for Semantic Image Segmentation](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
 ### Keras image classification
