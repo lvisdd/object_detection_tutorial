@@ -1,6 +1,6 @@
 # Object Detection Tutorial for Google Colaboratory
 
-## For more information
+## For more information, see
 
 ### Tensorflow Object Detection API
 
@@ -15,6 +15,8 @@
 #### [Tensorflow Object Detection API Web Service](https://github.com/webrtcHacks/tfObjWebrtc)
 
 #### [Tensorflow Face Detector](https://github.com/yeephycho/tensorflow-face-detection)
+
+#### [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation)
 
 #### [DeepLab: Deep Labelling for Semantic Image Segmentation](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
