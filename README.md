@@ -20,6 +20,8 @@
 
 #### [DeepLab: Deep Labelling for Semantic Image Segmentation](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
+#### [EfficientNets](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)
+
 ### Keras image classification
 
 #### [Keras Applications](https://keras.io/applications/)
