@@ -26,6 +26,10 @@
 
 #### [colab_web_demo](https://github.com/a2kiti/colab_web_demo)
 
+#### [EfficientNet Keras (and TensorFlow Keras)](https://github.com/qubvel/efficientnet)
+
+#### [keras-gradcam](https://github.com/eclique/keras-gradcam)
+
 ### Mask R-CNN for object detection and instance segmentation
 
 #### [Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow](https://github.com/matterport/Mask_RCNN)
