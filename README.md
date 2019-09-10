@@ -32,6 +32,8 @@
 
 #### [keras-gradcam](https://github.com/eclique/keras-gradcam)
 
+#### [Keras Implemention of CustomNetwork-SSD](https://github.com/tanakataiki/ssd_kerasV2)
+
 ### Mask R-CNN for object detection and instance segmentation
 
 #### [Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow](https://github.com/matterport/Mask_RCNN)
